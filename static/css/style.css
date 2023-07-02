@@ -1,0 +1,11 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+input[type="text"], input[type="password"], input[type="submit"] {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
